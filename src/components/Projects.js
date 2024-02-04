@@ -25,7 +25,7 @@ const Projects = ({resumeProjects, resumeBasicInfo}) => {
             <div className="foto" onClick={() => detailsModalDisplay(projects)}>
               <div>
                 <img
-                  src={`react-portfolio/${projects.images[0]}`}
+                  src={`${projects.images[0]}`}
                   alt="projectImages"
                   height="230"
                   style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}

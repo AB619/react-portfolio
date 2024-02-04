@@ -6,7 +6,7 @@ import tsIcon from "@iconify/icons-logos/typescript-icon";
 
 const About = ({sharedBasicInfo, resumeBasicInfo}) => {
   if (sharedBasicInfo) {
-    var profilepic = `react-portfolio/images/${sharedBasicInfo.image}`;
+    var profilepic = `images/${sharedBasicInfo.image}`;
   }
   if (resumeBasicInfo) {
     var sectionName = resumeBasicInfo.section_name.about;

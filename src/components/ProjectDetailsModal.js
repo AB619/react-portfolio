@@ -29,7 +29,7 @@ const ProjectDetailsModal = ({show, data, onHide}) => {
         });
         if (data.images) {
           var img = data.images.map((elem, i) => {
-            return <div key={i} data-src={`react-portfolio//${elem}`} />;
+            return <div key={i} data-src={`${elem}`} />;
           });
         }
       }
