@@ -1,0 +1,202 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Ankit Bhaskar. UI Developer specialising in JavaScript, TypeScript, React js, React-native and Angular having 5+ yrs of experience. I am responsible for completing the design of applications and software using Javascript. I work with websites, producing front-end applications, and performing code analysis and overall improvement of style and usability. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Netflix Clone",
+      "startDate": "2020",
+      "description": "World of seamless entertainment with Netflix UI clone. Crafted using React, JavaScript, and powered by the TMDb free API, this project brings the immersive experience of browsing and exploring movies and TV shows. The user-friendly interface mirrors the familiar Netflix layout. Hosted on Firebase, this project not only showcases design and development skills but also demonstrates the ability to integrate with external APIs for dynamic and up-to-date content.",
+      "images": [
+        "images/portfolio/netflix-clone/p1.jpeg",
+        "images/portfolio/netflix-clone/p2.jpeg"
+      ],
+      "url": "https://netflix-ab.web.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Google Firebase"
+        }
+      ]
+    },
+    {
+      "title": "MERN stack Movies Web App",
+      "startDate": "2023",
+      "description": "Personal project using ReactJS Node.js MongoDB Mongoose Express.js Joi Ant Design and Webpack. Deployed UI using Vercel and backend using Railway. Features - Search , Sort , Pagination.",
+      "images": [
+        "images/portfolio/mern-movies-app/p1.png"
+      ],
+      "url": "https://movies-app-ab619.vercel.app",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-express-plain",
+          "name": "Express.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Broadcast Messenger",
+      "startDate": "2020",
+      "description": "Broadcast Messenger built with ReactJS using libraries Material UI and react-flip. Deployed using Google Firebase.",
+      "images": [
+        "images/portfolio/messenger-broadcast/p1.jpeg"
+      ],
+      "url": "https://react-messenger-39dd3.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Google Firebase"
+        }
+      ]
+    },
+    {
+      "title": "COVID 19 Tracker",
+      "startDate": "2020",
+      "description": "Experience a real-time visualization of the global impact of the COVID-19 pandemic through interactive web application. Seamlessly built using ReactJS, Chart.js, and Leaflet, this application provides a dynamic map-based display of COVID-19 statistics, including total cases, recoveries, and fatalities for every country worldwide. The intuitive interface allows users to filter and explore data for specific countries, offering a comprehensive and user-friendly experience. Deployed with the efficiency of Google Firebase.",
+      "images": [
+        "images/portfolio/covid-tracker/p1.jpeg",
+        "images/portfolio/covid-tracker/p2.jpeg"
+      ],
+      "url": "https://covid-19-tracker-ab.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Google Firebase"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "EPAM Systems",
+      "title": "Senior Software Engineer",
+      "years": "Aug 2023 - Present",
+      "mainTech": ["Typecript ES6"],
+      "technologies": [
+        "MicroFrontend",
+        "Web Accessibility",
+        "TypeScript",
+        "Bootstrap",
+        "ReactJS",
+        "Agile SDLC",
+        "REDUX",
+        "Dynamic Form Builder"
+      ]
+    },
+    {
+      "company": "Société Générale GSC",
+      "title": "Specialist Software Engineer",
+      "years": "Apr 2021 - Aug 2023",
+      "mainTech": ["TypeScript ReactJS"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "Bootstrap",
+        "ReactJS",
+        "Agile SDLC",
+        "REDUX",
+        "REST API",
+        "Angular"
+      ]
+    },
+    {
+      "company": "Cognizant Technology Solutions",
+      "title": "Frontend Developer",
+      "years": "Apr 2018 - Apr 2021",
+      "mainTech": ["JavaScript ES6 ReactJS"],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "ReactJS",
+        "Agile SDLC",
+        "REDUX",
+        "REST API",
+        "GIT/GITHub"
+      ]
+    },
+    {
+      "company": "Thruskills",
+      "title": "Intern",
+      "years": "Sep 2017 - Jan 2018",
+      "mainTech": ["JavaScript ES6"],
+      "technologies": [
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "JavaScript",
+        "ReactJS"
+      ]
+    },
+    {
+      "company": "VTU, Belgaum",
+      "title": "Bachelor of Engineering",
+      "years": "Jun 2013 - Aug 2017",
+      "mainTech": ["Electronics and Communications"],
+      "technologies": ["BE", "Soft Skills", "Communication"]
+    },
+    {
+      "company": "RPS Public School, Patna",
+      "title": "Class XI-XII",
+      "years": "May 2010 - Apr 2012",
+      "mainTech": ["A.I.S.S.C.E."],
+      "technologies": ["Physics", "Chemistry", "Mathematics"]
+    },
+    {
+      "company": "St Joseph's High School, Patna",
+      "title": "Till Class X",
+      "years": "Till Apr 2010",
+      "mainTech": ["A.I.S.S.E."],
+      "technologies": ["Mathematics", "Science", "Social Science"]
+    }
+  ]
+}
